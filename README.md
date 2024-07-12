@@ -1,2 +1,2 @@
-# tic_tac_toe
+# Rock_Paper_Scissor
 A game for playing.
